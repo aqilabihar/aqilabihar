@@ -1,6 +1,6 @@
 <div align="center">
   <!-- SISI KIRI: Most Used Languages -->
-  <div style="display: inline-block; vertical-align: top; margin-right: 10px;">
+  <div style="display: inline-block; vertical-align: top; ;">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aqilabihar&langs_count=8" alt="Top Langs" />
   </div>
 
